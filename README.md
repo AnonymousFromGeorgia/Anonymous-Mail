@@ -13,3 +13,6 @@ cd Anonymous-Mail
 pip2 install -r requirements.txt
 python2 Anonymous-Mail.py
 ```
+
+<h2>ვიდეო</h2>
+<a href="https://www.youtube.com/watch?v=OF46VXsZNicu"><img src="https://i.ibb.co/txJ6tMq/maxresdefault.png" style="max-width:100%;"></a>
